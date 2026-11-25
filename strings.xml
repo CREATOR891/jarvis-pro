@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="accessibility_description">Джарвис нажимает кнопки, закрывает приложения и переключает настройки по твоим голосовым командам.</string>
+</resources>
